@@ -70,7 +70,7 @@ Example
 ```
 #!/bin/bash
 
-dir="/home/alana/Insync/alana.butler@monash.edu/Google Drive/Work/Silica_scRNA/"
+dir="/home/alana/Documents/example_scRNA/"
 
 /home/{path}/STAR-2.7.9a/source/STAR \
         --outFileNamePrefix "${dir}sample1" \
