@@ -82,7 +82,7 @@ dir="/home/alana/Documents/example_scRNA/"
         --soloType CB_UMI_Complex \
         --soloCBmatchWLtype 1MM \
         --soloCBwhitelist "${dir}BD_CLS1.txt" "${dir}BD_CLS2.txt" "${dir}BD_CLS3.txt" \
-        --soloUMIlen 8 \
+        --soloUMIlen 9 \
         --soloCBposition 0_0_0_8 0_21_0_29 0_43_0_51 \
         --soloUMIposition 0_52_0_59 \
         --soloCellFilter EmptyDrops_CR 3000 0.99 10 45000 90000 500 0.01 20000 0.01 10000
